@@ -9,5 +9,5 @@
   
   - [✔] Earn Full Stack Certification from freeCodeCamp.com
   - [❌] Build personal portfolio
-  - [❌] Build React.js Project
+  - [❌] Build MERN stack Project
   - [❌] Become professional Developer
