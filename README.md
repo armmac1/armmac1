@@ -10,4 +10,4 @@
   - [✔] Earn Full Stack Certification from freeCodeCamp.com
   - [❌] Build personal portfolio
   - [❌] Build MERN stack project
-  - [❌] Become professional Developer
+  - [❌] Become professional developer
