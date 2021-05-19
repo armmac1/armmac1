@@ -7,7 +7,7 @@
 
 ### 🎖Milestones
   
-  - [✔] Earn Full Stack Certification from freeCodeCamp.com
+  - [✔][05/19/20] Earn Full Stack Certification from freeCodeCamp.com
   - [❌] Build personal portfolio
   - [❌] Build MERN stack project
   - [❌] Become professional developer
