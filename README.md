@@ -5,9 +5,13 @@
 ### 💻 Stack 
 - MERN
 
-### 🎖Milestones
+### 🎖 Milestones
   
   - [✔] Earn Full Stack Certification from freeCodeCamp.com
   - [❌] Build personal portfolio
   - [❌] Build MERN stack project
   - [❌] Become professional developer
+
+### ⚒ Work In Progress
+
+  - Building personal portfolio @ https://armmac1.github.io/personal-portfolio/
