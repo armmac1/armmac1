@@ -2,8 +2,8 @@
 
 *One step at a time turning my development hobby into profesional career!*
 
-### Portfolio
-💼 https://armmac1.github.io/personal-portfolio/
+### 💼 Portfolio
+- https://armmac1.github.io/personal-portfolio/
 
 ### 💻 Stack 
 - MERN
