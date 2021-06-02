@@ -8,10 +8,10 @@
 ### 🎖 Milestones
   
   - [✔] Earn Full Stack Certification from freeCodeCamp.com
-  - [❌] Build personal portfolio
+  - [✔] Build personal portfolio. Live 🔴 https://armmac1.github.io/personal-portfolio/
   - [❌] Build MERN stack project
   - [❌] Become professional developer
 
 ### ⚒ Work In Progress
 
-  - Building personal portfolio @ https://armmac1.github.io/personal-portfolio/
+  - Building backend for MERN stack project. Source @ https://github.com/armmac1/trouble-ticketing-app-api
