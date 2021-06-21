@@ -17,5 +17,4 @@
 
 ### ⚒ Work In Progress
 
-  - Building backend for MERN stack project. Source @ https://github.com/armmac1/trouble-ticketing-app-api
-  - Building frontend for MERN stack project. Source @ https://github.com/armmac1/trouble-ticketing-app-webpage
+  - Trouble Ticketing MERN stack application: https://github.com/armmac1/troubleticket-mern-application
