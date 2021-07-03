@@ -12,9 +12,8 @@
   
   - [✔] Earn Full Stack Certification from freeCodeCamp.com
   - [✔] Build personal portfolio.
-  - [❌] Build MERN stack project
+  - [✔] Build MERN stack project. (Trouble Ticketing Application @ https://troubleticketapplication.herokuapp.com/)
+  - [❌] Build another MERN projects!
   - [❌] Become professional developer
 
 ### ⚒ Work In Progress
-
-  - Trouble Ticketing MERN stack application: https://github.com/armmac1/troubleticket-mern-application
