@@ -21,4 +21,4 @@
 - Styled Components
 
 ### ⚒ Work In Progress
-- Building simple online service store to learn state management with Redux and componenet styling with 'Styled Compoenents'.
+- Building simple online service store to learn state management with Redux and component styling with 'Styled Compoenents'.
