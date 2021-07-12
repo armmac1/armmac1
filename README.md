@@ -16,4 +16,9 @@
   - [❌] Build another MERN projects!
   - [❌] Become professional developer
 
+### 🌱 Current Learning
+- Redux
+- Styled Components
+
 ### ⚒ Work In Progress
+- Building simple online service store to learn state management with Redux and componenet styling with 'Styled Compoenents'.
