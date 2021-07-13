@@ -16,7 +16,7 @@
   - [❌] Build another MERN projects!
   - [❌] Become professional developer
 
-### 🌱 Current Learning
+### 🌱 Currently Learning
 - Redux
 - Styled Components
 
