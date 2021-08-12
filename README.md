@@ -8,14 +8,6 @@
 ### 💻 Stack 
 - MERN
 
-### 🎖 Milestones
-  
-  - [✔] Earn Full Stack Certification from freeCodeCamp.com
-  - [✔] Build personal portfolio.
-  - [✔] Build MERN stack project. (Trouble Ticketing Application @ https://troubleticketapplication.herokuapp.com/)
-  - [✔] Become professional developer
-  - [❌] Build another MERN projects!
-
 ### 🌱 Currently Learning
 - Redux
 - Styled Components
