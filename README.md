@@ -1,6 +1,6 @@
 👋 Hey, I'm Arminas!
 
-*One step at a time turning my development hobby into profesional career!*
+*Increasing confidence with tests!*
 
 ### 💼 Portfolio
 - https://armmac1.github.io/personal-portfolio/
