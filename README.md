@@ -9,8 +9,4 @@
 - MERN
 
 ### 🌱 Currently Learning
-- Redux
-- Styled Components
-
-### ⚒ Work In Progress
-- Building simple online service store to learn state management with Redux and component styling with 'Styled Compoenents'.
+- Testing with Cypress
