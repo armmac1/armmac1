@@ -9,4 +9,4 @@
 - MERN
 
 ### 🌱 Currently Learning
-- Testing with Cypress   
+- Testing with Cypress
