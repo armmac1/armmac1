@@ -4,6 +4,7 @@
 
 ### 💼 Portfolio
 - https://armmac1.github.io/personal-portfolio/
+- 🏗 https://armmac1.github.io/react-portfolio-v2/
 
 ### 💻 Stack 
 - MERN
