@@ -1,7 +1,5 @@
 👋 Hey, I'm Arminas!
 
-*Increasing confidence with tests!*
-
 ### 💼 Portfolio
 - https://armmac1.github.io/personal-portfolio/
 
@@ -10,3 +8,4 @@
 
 ### 🌱 Currently Learning
 - Testing with Cypress
+- Next.js
