@@ -7,5 +7,4 @@
 - MERN
 
 ### 🌱 Currently Learning
-- Testing with Cypress
 - Next.js
