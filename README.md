@@ -1,4 +1,6 @@
 👋 Hey, I'm Arminas!
 
-### 🌱 Currently Learning
-- Next.js
+### 🛠 Fabricobbling with:
+- Next
+- Mantine
+- NextAuth
