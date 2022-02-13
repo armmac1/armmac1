@@ -5,4 +5,4 @@
 - Mantine
 - NextAuth
 - SWR
-- xstate
+- XState
